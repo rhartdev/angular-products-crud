@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   Simple products project build with Angular 9
+  Simple products project build with Angular 9
 </h3>
 
 <p align="center">
